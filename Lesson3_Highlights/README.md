@@ -4,15 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+February 3, 2017
 
 ## Student Name:  
-(First and Last Name)
+Alandra Brown
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+The assignment was to link create and link our GitHub accounts with our Cloud 9 workspaces. We were also required to summarize lesson 5 and highlight 5 main concepts.
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned the difference between the various control methods
+2. I learned the basics of git, and using GitHub
+3. I learned how to push files to a remote repository 
